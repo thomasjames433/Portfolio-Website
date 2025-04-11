@@ -12,9 +12,9 @@ interface LeetcodeStatsProps {
 export default function LeetcodeStats({
   username,
   totalSolved,
-  easySolved = 80,
-  mediumSolved = 110,
-  hardSolved = 10,
+  easySolved = 120,
+  mediumSolved = 65,
+  hardSolved = 15,
 }: LeetcodeStatsProps) {
   // Calculate percentages
   const easyPercentage = (easySolved / totalSolved) * 100

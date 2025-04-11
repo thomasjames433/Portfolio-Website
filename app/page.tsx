@@ -830,7 +830,7 @@ export default function Home() {
                       animate={{ scale: [1, 1.05, 1] }}
                       transition={{ duration: 2, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
                     >
-                      120
+                      80
                     </motion.div>
                     <p className="text-green-400 font-medium text-lg relative">Easy Problems</p>
                     <div className="w-full bg-white/10 rounded-full h-3 mt-6 relative overflow-hidden">
@@ -855,7 +855,7 @@ export default function Home() {
                       animate={{ scale: [1, 1.05, 1] }}
                       transition={{ duration: 2, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut", delay: 0.3 }}
                     >
-                      65
+                      110
                     </motion.div>
                     <p className="text-yellow-400 font-medium text-lg relative">Medium Problems</p>
                     <div className="w-full bg-white/10 rounded-full h-3 mt-6 relative overflow-hidden">
@@ -880,7 +880,7 @@ export default function Home() {
                       animate={{ scale: [1, 1.05, 1] }}
                       transition={{ duration: 2, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut", delay: 0.6 }}
                     >
-                      15
+                      10
                     </motion.div>
                     <p className="text-red-400 font-medium text-lg relative">Hard Problems</p>
                     <div className="w-full bg-white/10 rounded-full h-3 mt-6 relative overflow-hidden">
