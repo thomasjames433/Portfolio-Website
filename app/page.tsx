@@ -47,7 +47,7 @@ export default function Home() {
       description:
         "A video chatting website that allows random matches, group calls, and one-on-one calls. Features AI-powered sign language conversion, speech-to-text, and intelligent user matching algorithms.",
       image: "/placeholder.svg?height=600&width=800",
-      link: "https://github.com/thomasjames433/myexpos",
+      link: "https://github.com/thomasjames433/Meet-Web",
     },
   ]
 
@@ -58,7 +58,7 @@ export default function Home() {
       category: "Algorithms",
       description: "An implementation of the classic game with an unbeatable AI using the minimax algorithm.",
       image: "/placeholder.svg?height=400&width=600",
-      link: "#",
+      link: "https://github.com/thomasjames433/Minimax-Tic-Tac-Toe",
     },
     {
       id: 4,
@@ -66,7 +66,7 @@ export default function Home() {
       category: "Web Development",
       description: "A URL shortening service built with Django, Celery, and Redis for efficient request handling.",
       image: "/placeholder.svg?height=400&width=600",
-      link: "#",
+      link: "https://github.com/thomasjames433/URL_Shortener_Celery",
     },
     {
       id: 5,
@@ -74,15 +74,15 @@ export default function Home() {
       category: "Machine Learning",
       description: "An ML-based system that recommends movies based on user preferences and viewing history.",
       image: "/placeholder.svg?height=400&width=600",
-      link: "#",
+      link: "https://github.com/thomasjames433/Movie-Recommendation-System",
     },
     {
       id: 6,
-      title: "Hall Booking System",
+      title: "Event Management System",
       category: "Backend Development",
-      description: "A FastAPI-based application for managing and booking halls and venues.",
+      description: "A FastAPI-based application for organizing events and managing and booking halls and venues.",
       image: "/placeholder.svg?height=400&width=600",
-      link: "#",
+      link: "https://github.com/thomasjames433/Event-Management-FastAPI",
     },
   ]
 
